@@ -1,1 +1,1 @@
-# Probabilistic-Graphical-Method-Assingment
+# Probabilistic Graphical Models Assingment
